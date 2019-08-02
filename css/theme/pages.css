@@ -3,3 +3,15 @@
   float:right;
 }
 #footer {width:100%;}
+#pleasenote{display: inline;}
+
+.backgroundimg {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-left-text {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
