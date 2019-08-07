@@ -3,7 +3,7 @@ document.write(" <section class='fashion-area section-gap' id='recentpost'>\
   <h3 class='text-uppercase'>Recent Post</h3>\
     <div class='row'>\
       <div class='col-lg-3 col-md-6 single-fashion'>\
-        <img class='img-fluid' src='img/island2.jpg' height='200'>\
+        <img class='img-fluid' src='img/island2.JPG' height='200'>\
         <p class='date'>1 Aug 2019</p>\
         <h4><a href='galap.html'></a>Bienvenidos a La Galapagos</h4>\
         <p> The islanders of the Galapagos are some of the friendliest people you can meet... </p>\

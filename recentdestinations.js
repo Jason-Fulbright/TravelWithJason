@@ -1,6 +1,6 @@
 document.write(" <div class='active-recent-carusel'>\
     <div class='item'>\
-    <img class='img-fluid' src='img/island2.jpg' height='200'>\
+    <img class='img-fluid' src='img/island2.JPG' height='200'>\
         <p class='mt-20 title text-uppercase'>Bienvenidos a La<br> Galapagos</p>\
         <p>1 Aug 2019 <span> <i class='fa fa-heart-o' aria-hidden='true'></i> 06 <i class='fa fa-comment-o' aria-hidden='true'></i>02</span></p>\
     </div>\
