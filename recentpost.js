@@ -34,9 +34,9 @@ document.write(" <section class='fashion-area section-gap' id='recentpost'>\
             </div>\
             <div class='col-lg-3 col-md-6 single-fashion'>\
               <img class='img-fluid' src='img/f1.jpg' alt=''>\
-              <p class='date'>10 Jan 2018</p>\
-              <h4><a href=''#''>Addiction When Gambling  Becomes A Problem</a></h4>\
-              <p>  inappropriate behavior ipsum dolor sit amet, consectetur.  </p>\
+              <p class='date'>1 Sept 2019</p>\
+              <h4><a href='fluoridefree.html'>Choosing the Right Toothpaste</a></h4>\
+              <p>   When buying a new toothpaste there are soo many options, do I get a whitening toothpaste, does it need... </p>\
               <div class='meta-bottom d-flex justify-content-between'>\
                 <p><span class='lnr lnr-heart'></span> 15 Likes</p>\
                 <p><span class='lnr lnr-bubble'></span> 02 Comments</p>\
