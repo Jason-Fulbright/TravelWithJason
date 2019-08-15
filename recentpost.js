@@ -5,7 +5,7 @@ document.write(" <section class='fashion-area section-gap' id='recentpost'>\
       <div class='col-lg-3 col-md-6 single-fashion'>\
         <img class='img-fluid' src='img/island2.JPG' height='200'>\
         <p class='date'>1 Aug 2019</p>\
-        <h4><a href='galap.html'></a>Bienvenidos a La Galapagos</h4>\
+        <h4> <a href='galap.html'>Bienvenidos a La Galapagos</a></h4>\
         <p> The islanders of the Galapagos are some of the friendliest people you can meet... </p>\
         <div class='meta-bottom d-flex justify-content-between'>\
           <p><span class='lnr lnr-heart'></span> 15 Likes</p>\
