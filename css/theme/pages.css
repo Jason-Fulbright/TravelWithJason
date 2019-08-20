@@ -1,8 +1,6 @@
 
-#coverstory_img div{
-  float:right;
-}
-#footer {width:100%;}
+
+
 #pleasenote{display: inline;}
 
 .backgroundimg {
@@ -10,6 +8,7 @@
   text-align: center;
   color: white;
 }
+
 .top-left-text {
   position: absolute;
   top: 8px;
