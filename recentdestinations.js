@@ -14,5 +14,10 @@ document.write(" <div class='active-recent-carusel'>\
       <a href='bocas.html'>  <p class='mt-20 title text-uppercase'>Beautiful Bocas</p></a>\
         <p>6 Aug 2019 <span> <i class='fa fa-heart-o' aria-hidden='true'></i> 0 <i class='fa fa-comment-o' aria-hidden='true'></i>0</span></p>\
     </div>\
+    <div class='item'>\
+    <img class='img-fluid' src='pics/bocas/IMG4320.JPG' height='200' alt=''>\
+      <a href='nola.html'>  <p class='mt-20 title text-uppercase'>Nola: A Foodies Paradise</p></a>\
+        <p>6 Aug 2019 <span> <i class='fa fa-heart-o' aria-hidden='true'></i> 0 <i class='fa fa-comment-o' aria-hidden='true'></i>0</span></p>\
+    </div>\
 </div>\
 ");
