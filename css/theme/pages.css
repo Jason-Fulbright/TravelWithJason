@@ -1,16 +1,7 @@
 
 
-
-#pleasenote{display: inline;}
-
-.backgroundimg {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-.top-left-text {
-  position: absolute;
-  top: 8px;
-  left: 16px;
+@media only screen and (max-width: 800px) {
+  .top-section-area {
+    padding-top:1000px;
+  }
 }
