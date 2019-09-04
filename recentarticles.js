@@ -19,5 +19,10 @@ document.write(" <div class='active-recent-carusel'>\
         <a href='fit.html'><p class='mt-20 title text-uppercase'>Staying Healthy 101</p></a>\
         <p>27 Aug 2019 <span> <i class='fa fa-heart-o' aria-hidden='true'></i> 0 <i class='fa fa-comment-o' aria-hidden='true'></i>0</span></p>\
     </div>\
+    <div class='item'>\
+        <img src='pics/costa-2.JPG' alt=''>\
+        <a href='batteryhealth.html'><p class='mt-20 title text-uppercase'>Keeping that Battery Healthy</p></a>\
+        <p>29 Aug 2019 <span> <i class='fa fa-heart-o' aria-hidden='true'></i> 0 <i class='fa fa-comment-o' aria-hidden='true'></i>0</span></p>\
+    </div>\
 </div>\
 ");
