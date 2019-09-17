@@ -3,10 +3,10 @@ document.write(" <section class='fashion-area section-gap' id='recentpost'>\
   <h3 class='text-uppercase'>Recent Post</h3>\
     <div class='row'>\
       <div class='col-lg-3 col-md-6 single-fashion'>\
-        <img class='img-fluid' src='img/island2.JPG' height='200'>\
-        <p class='date'>1 Aug 2019</p>\
-        <h4> <a href='galap.html'>Hola from the Galapagos</a></h4>\
-        <p>The islanders of the Galapagos are some of the friendliest people you can meet... </p>\
+        <img class='img-fluid' src='pics/paris1/costa-48.JPG' height='200'>\
+        <p class='date'>17 Sept 2019</p>\
+        <h4> <a href='paris.html'>From Paris with Love</a></h4>\
+        <p>From the old style architecture to the delicious cuisine, I was falling in love so if you ever don't hear from me, I've probably run away to Paris... </p>\
         </div>\
         <div class='col-lg-3 col-md-6 single-fashion'>\
           <img class='img-fluid' src='pics/costa-9.JPG'   alt=''>\
